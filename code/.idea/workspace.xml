@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50ad0b57-24c1-48c3-b8de-867eb17bc9b7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ovhAc6mb2sZntZAQ1MTGo9AolY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pretrain_nezha_random_sentence.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.nezha_pretrain_random">
+    <configuration name="Unnamed" type="CompoundRunConfigurationType">
+      <method v="2" />
+    </configuration>
+    <configuration name="data_static" type="PythonConfigurationType" factoryName="Python">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/envs/qq_sim/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/dataset_static.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dataset" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/envs/qq_sim/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/dataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="nezha_predict" type="PythonConfigurationType" factoryName="Python">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/envs/qq_sim/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pretrain_nezha.py" />
+      <option name="PARAMETERS" value="--predict" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="nezha_pretrain" type="PythonConfigurationType" factoryName="Python">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/envs/qq_sim/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pretrain_nezha.py" />
+      <option name="PARAMETERS" value="--train" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="nezha_pretrain_random" type="PythonConfigurationType" factoryName="Python">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/envs/qq_sim/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pretrain_nezha_random_sentence.py" />
+      <option name="PARAMETERS" value="--train" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="predict" type="PythonConfigurationType" factoryName="Python">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/envs/qq_sim/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="--predict" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pretrain_double_random_sentence" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/envs/qq_sim/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pretrain_double_random_sentence.py" />
+      <option name="PARAMETERS" value="--train" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pretrain_double_random_sentence_predict" type="PythonConfigurationType" factoryName="Python">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/envs/qq_sim/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pretrain_double_random_sentence.py" />
+      <option name="PARAMETERS" value="--predict" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pretrain_double_sentence" type="PythonConfigurationType" factoryName="Python">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/envs/qq_sim/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pretrain_double_sentence.py" />
+      <option name="PARAMETERS" value="--train" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pretrain_roberta_double_sentence" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/envs/qq_sim/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pretrain_roberta_double_sentence.py" />
+      <option name="PARAMETERS" value="--train" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="roberta_test" type="PythonConfigurationType" factoryName="Python">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/envs/qq_sim/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/roberta_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="study" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/envs/qq_sim/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/envs/qq_sim/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="--test" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_nezha" type="PythonConfigurationType" factoryName="Python">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/envs/qq_sim/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_nezha.py" />
+      <option name="PARAMETERS" value="--train" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Compound.Unnamed" />
+      <item itemvalue="Python.data_static" />
+      <item itemvalue="Python.dataset" />
+      <item itemvalue="Python.predict" />
+      <item itemvalue="Python.pretrain_double_random_sentence" />
+      <item itemvalue="Python.pretrain_double_sentence" />
+      <item itemvalue="Python.pretrain_double_random_sentence_predict" />
+      <item itemvalue="Python.pretrain_roberta_double_sentence" />
+      <item itemvalue="Python.roberta_test" />
+      <item itemvalue="Python.study" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.train_nezha" />
+      <item itemvalue="Python.nezha_pretrain_random" />
+      <item itemvalue="Python.nezha_pretrain" />
+      <item itemvalue="Python.nezha_predict" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50ad0b57-24c1-48c3-b8de-867eb17bc9b7" name="Default Changelist" comment="" />
+      <created>1614172828838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614172828838</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1679" y="1396" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616978224671">
+      <screen x="1440" y="1132" width="1920" height="1080" />
+    </state>
+    <state x="1679" y="1431" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1440.2533/1440.1167.1920.1080@1440.1167.1920.1080" timestamp="1615051009669" />
+    <state x="1679" y="1396" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.1132.1920.1080/0.1159.1440.1401@1440.1132.1920.1080" timestamp="1616978224671" />
+    <state x="179" y="1554" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.1202.1920.1080/0.1229.1440.1331@0.1229.1440.1331" timestamp="1614173273502" />
+    <state x="1679" y="1466" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.1202.1920.1080/0.1229.1440.1331@1440.1202.1920.1080" timestamp="1614873330113" />
+    <state x="130" y="1197" width="1279" height="1131" key="#xdebugger.evaluate" timestamp="1616979120784">
+      <screen x="0" y="1159" width="1440" height="1401" />
+    </state>
+    <state x="130" y="1197" width="1279" height="1131" key="#xdebugger.evaluate/1440.1132.1920.1080/0.1159.1440.1401@1440.1132.1920.1080" timestamp="1616979120784" />
+    <state x="1857" y="1506" width="1374" height="776" key="#xdebugger.evaluate/1440.1202.1920.1080/0.1229.1440.1331@1440.1202.1920.1080" timestamp="1614876270209" />
+    <state width="1361" height="740" key="DebuggerActiveHint" timestamp="1616978823198">
+      <screen x="1440" y="1132" width="1920" height="1080" />
+    </state>
+    <state width="1361" height="740" key="DebuggerActiveHint/1440.1132.1920.1080/0.1159.1440.1401@1440.1132.1920.1080" timestamp="1616978823198" />
+    <state width="1859" height="739" key="DebuggerActiveHint/1440.1202.1920.1080/0.1229.1440.1331@1440.1202.1920.1080" timestamp="1614876306836" />
+    <state x="2104" y="1477" width="424" height="484" key="FileChooserDialogImpl" timestamp="1616978220222">
+      <screen x="1440" y="1132" width="1920" height="1080" />
+    </state>
+    <state x="2104" y="1512" key="FileChooserDialogImpl/0.27.1440.2533/1440.1167.1920.1080@1440.1167.1920.1080" timestamp="1615051008207" />
+    <state x="2104" y="1477" width="424" height="484" key="FileChooserDialogImpl/1440.1132.1920.1080/0.1159.1440.1401@1440.1132.1920.1080" timestamp="1616978220222" />
+    <state x="498" y="1654" width="424" height="484" key="FileChooserDialogImpl/1440.1202.1920.1080/0.1229.1440.1331@0.1229.1440.1331" timestamp="1614697045579" />
+    <state x="2104" y="1547" width="424" height="484" key="FileChooserDialogImpl/1440.1202.1920.1080/0.1229.1440.1331@1440.1202.1920.1080" timestamp="1614873324404" />
+    <state width="1893" height="226" key="GridCell.Tab.0.bottom" timestamp="1616978852681">
+      <screen x="1440" y="1132" width="1920" height="1080" />
+    </state>
+    <state width="1893" height="175" key="GridCell.Tab.0.bottom/0.27.1440.2533/1440.1167.1920.1080@1440.1167.1920.1080" timestamp="1615051031745" />
+    <state width="1893" height="226" key="GridCell.Tab.0.bottom/1440.1132.1920.1080/0.1159.1440.1401@1440.1132.1920.1080" timestamp="1616978852681" />
+    <state width="1413" height="430" key="GridCell.Tab.0.bottom/1440.1202.1920.1080/0.1229.1440.1331@0.1229.1440.1331" timestamp="1614270838256" />
+    <state width="1893" height="306" key="GridCell.Tab.0.bottom/1440.1202.1920.1080/0.1229.1440.1331@1440.1202.1920.1080" timestamp="1614876071644" />
+    <state width="1893" height="226" key="GridCell.Tab.0.center" timestamp="1616978852681">
+      <screen x="1440" y="1132" width="1920" height="1080" />
+    </state>
+    <state width="1893" height="175" key="GridCell.Tab.0.center/0.27.1440.2533/1440.1167.1920.1080@1440.1167.1920.1080" timestamp="1615051031745" />
+    <state width="1893" height="226" key="GridCell.Tab.0.center/1440.1132.1920.1080/0.1159.1440.1401@1440.1132.1920.1080" timestamp="1616978852681" />
+    <state width="1413" height="430" key="GridCell.Tab.0.center/1440.1202.1920.1080/0.1229.1440.1331@0.1229.1440.1331" timestamp="1614270838256" />
+    <state width="1893" height="306" key="GridCell.Tab.0.center/1440.1202.1920.1080/0.1229.1440.1331@1440.1202.1920.1080" timestamp="1614876071644" />
+    <state width="1893" height="226" key="GridCell.Tab.0.left" timestamp="1616978852681">
+      <screen x="1440" y="1132" width="1920" height="1080" />
+    </state>
+    <state width="1893" height="175" key="GridCell.Tab.0.left/0.27.1440.2533/1440.1167.1920.1080@1440.1167.1920.1080" timestamp="1615051031745" />
+    <state width="1893" height="226" key="GridCell.Tab.0.left/1440.1132.1920.1080/0.1159.1440.1401@1440.1132.1920.1080" timestamp="1616978852681" />
+    <state width="1413" height="430" key="GridCell.Tab.0.left/1440.1202.1920.1080/0.1229.1440.1331@0.1229.1440.1331" timestamp="1614270838256" />
+    <state width="1893" height="306" key="GridCell.Tab.0.left/1440.1202.1920.1080/0.1229.1440.1331@1440.1202.1920.1080" timestamp="1614876071644" />
+    <state width="1893" height="226" key="GridCell.Tab.0.right" timestamp="1616978852681">
+      <screen x="1440" y="1132" width="1920" height="1080" />
+    </state>
+    <state width="1893" height="175" key="GridCell.Tab.0.right/0.27.1440.2533/1440.1167.1920.1080@1440.1167.1920.1080" timestamp="1615051031745" />
+    <state width="1893" height="226" key="GridCell.Tab.0.right/1440.1132.1920.1080/0.1159.1440.1401@1440.1132.1920.1080" timestamp="1616978852681" />
+    <state width="1413" height="430" key="GridCell.Tab.0.right/1440.1202.1920.1080/0.1229.1440.1331@0.1229.1440.1331" timestamp="1614270838256" />
+    <state width="1893" height="306" key="GridCell.Tab.0.right/1440.1202.1920.1080/0.1229.1440.1331@1440.1202.1920.1080" timestamp="1614876071644" />
+    <state width="1893" height="226" key="GridCell.Tab.1.bottom" timestamp="1616978869396">
+      <screen x="1440" y="1132" width="1920" height="1080" />
+    </state>
+    <state width="1893" height="175" key="GridCell.Tab.1.bottom/0.27.1440.2533/1440.1167.1920.1080@1440.1167.1920.1080" timestamp="1615051016556" />
+    <state width="1893" height="226" key="GridCell.Tab.1.bottom/1440.1132.1920.1080/0.1159.1440.1401@1440.1132.1920.1080" timestamp="1616978869396" />
+    <state width="1413" height="454" key="GridCell.Tab.1.bottom/1440.1202.1920.1080/0.1229.1440.1331@0.1229.1440.1331" timestamp="1614270510361" />
+    <state width="1893" height="207" key="GridCell.Tab.1.bottom/1440.1202.1920.1080/0.1229.1440.1331@1440.1202.1920.1080" timestamp="1614876129372" />
+    <state width="1893" height="226" key="GridCell.Tab.1.center" timestamp="1616978869396">
+      <screen x="1440" y="1132" width="1920" height="1080" />
+    </state>
+    <state width="1893" height="175" key="GridCell.Tab.1.center/0.27.1440.2533/1440.1167.1920.1080@1440.1167.1920.1080" timestamp="1615051016556" />
+    <state width="1893" height="226" key="GridCell.Tab.1.center/1440.1132.1920.1080/0.1159.1440.1401@1440.1132.1920.1080" timestamp="1616978869396" />
+    <state width="1413" height="454" key="GridCell.Tab.1.center/1440.1202.1920.1080/0.1229.1440.1331@0.1229.1440.1331" timestamp="1614270510361" />
+    <state width="1893" height="207" key="GridCell.Tab.1.center/1440.1202.1920.1080/0.1229.1440.1331@1440.1202.1920.1080" timestamp="1614876129372" />
+    <state width="1893" height="226" key="GridCell.Tab.1.left" timestamp="1616978869396">
+      <screen x="1440" y="1132" width="1920" height="1080" />
+    </state>
+    <state width="1893" height="175" key="GridCell.Tab.1.left/0.27.1440.2533/1440.1167.1920.1080@1440.1167.1920.1080" timestamp="1615051016556" />
+    <state width="1893" height="226" key="GridCell.Tab.1.left/1440.1132.1920.1080/0.1159.1440.1401@1440.1132.1920.1080" timestamp="1616978869396" />
+    <state width="1413" height="454" key="GridCell.Tab.1.left/1440.1202.1920.1080/0.1229.1440.1331@0.1229.1440.1331" timestamp="1614270510361" />
+    <state width="1893" height="207" key="GridCell.Tab.1.left/1440.1202.1920.1080/0.1229.1440.1331@1440.1202.1920.1080" timestamp="1614876129372" />
+    <state width="1893" height="226" key="GridCell.Tab.1.right" timestamp="1616978869396">
+      <screen x="1440" y="1132" width="1920" height="1080" />
+    </state>
+    <state width="1893" height="175" key="GridCell.Tab.1.right/0.27.1440.2533/1440.1167.1920.1080@1440.1167.1920.1080" timestamp="1615051016556" />
+    <state width="1893" height="226" key="GridCell.Tab.1.right/1440.1132.1920.1080/0.1159.1440.1401@1440.1132.1920.1080" timestamp="1616978869396" />
+    <state width="1413" height="454" key="GridCell.Tab.1.right/1440.1202.1920.1080/0.1229.1440.1331@0.1229.1440.1331" timestamp="1614270510361" />
+    <state width="1893" height="207" key="GridCell.Tab.1.right/1440.1202.1920.1080/0.1229.1440.1331@1440.1202.1920.1080" timestamp="1614876129372" />
+    <state x="202" y="1531" key="SettingsEditor" timestamp="1614173237663">
+      <screen x="0" y="1229" width="1440" height="1331" />
+    </state>
+    <state x="202" y="1531" key="SettingsEditor/1440.1202.1920.1080/0.1229.1440.1331@0.1229.1440.1331" timestamp="1614173237663" />
+    <state width="1338" height="468" key="XDebugger.FullValuePopup" timestamp="1616978823195">
+      <screen x="1440" y="1132" width="1920" height="1080" />
+    </state>
+    <state width="1338" height="468" key="XDebugger.FullValuePopup/1440.1132.1920.1080/0.1159.1440.1401@1440.1132.1920.1080" timestamp="1616978823195" />
+    <state x="1700" y="1442" width="1007" height="624" key="find.popup" timestamp="1614877863026">
+      <screen x="1440" y="1202" width="1920" height="1080" />
+    </state>
+    <state x="1700" y="1442" width="1007" height="624" key="find.popup/1440.1202.1920.1080/0.1229.1440.1331@1440.1202.1920.1080" timestamp="1614877863026" />
+    <state x="2063" y="1389" width="672" height="678" key="search.everywhere.popup" timestamp="1616830720854">
+      <screen x="1440" y="1132" width="1920" height="1080" />
+    </state>
+    <state x="2063" y="1424" width="672" height="678" key="search.everywhere.popup/0.27.1440.2533/1440.1167.1920.1080@1440.1167.1920.1080" timestamp="1615091362898" />
+    <state x="2063" y="1389" width="672" height="678" key="search.everywhere.popup/1440.1132.1920.1080/0.1159.1440.1401@1440.1132.1920.1080" timestamp="1616830720854" />
+    <state x="2063" y="1459" width="672" height="678" key="search.everywhere.popup/1440.1202.1920.1080/0.1229.1440.1331@1440.1202.1920.1080" timestamp="1614788888209" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train.py</url>
+          <line>128</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/nlp_utils/dataset.py</url>
+          <line>558</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/model_bert.py</url>
+          <line>134</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pretrain_double_sentence.py</url>
+          <line>276</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/nlp_utils/dataset.py</url>
+          <line>591</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>93</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/anaconda3/envs/qq_sim/lib/python3.7/site-packages/transformers/tokenization_utils_base.py</url>
+          <line>2470</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/study.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/nlp_utils/dataset_static.py</url>
+          <line>107</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/anaconda3/envs/qq_sim/lib/python3.7/site-packages/transformers/data/data_collator.py</url>
+          <line>195</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/study.py</url>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/model_bert.py</url>
+          <line>406</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/nlp_utils/dataset.py</url>
+          <line>676</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pretrain_roberta_double_sentence.py</url>
+          <line>85</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/roberta_test.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/anaconda3/envs/qq_sim/lib/python3.7/site-packages/transformers/models/roberta/modeling_roberta.py</url>
+          <line>1374</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/model_bert.py</url>
+          <line>568</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/model_bert.py</url>
+          <line>748</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/model_bert.py</url>
+          <line>744</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/anaconda3/envs/qq_sim/lib/python3.7/site-packages/transformers/trainer.py</url>
+          <line>939</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/nezha/modeling_nezha.py</url>
+          <line>1034</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/nezha/modeling_nezha.py</url>
+          <line>960</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main_nezha.py</url>
+          <line>97</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="sent_label_list[index]" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
